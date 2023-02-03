@@ -39,3 +39,6 @@ manejando pacientes, sus fichas clinicas, medicamentos, personal que los atiende
 - Framework : Django - DjangoRestFramework
 - Frontend : Javascript - React
 - Base de datos : MySql
+- 
+<img width="1270" alt="Screen Shot 2023-02-02 at 22 08 00" src="https://user-images.githubusercontent.com/103804882/216487766-83565e69-1975-454e-a1e4-4e6e4fd8c7b6.png">
+
