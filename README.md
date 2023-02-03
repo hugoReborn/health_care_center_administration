@@ -15,6 +15,7 @@ Managing patients, their clinical records, medications, staff who attend them, h
 - language : Python
 - Framework : Django - DjangoRestFramework
 - Frontend: Javascript - React
+- DataBase : MySql
 
 
 
@@ -37,3 +38,4 @@ manejando pacientes, sus fichas clinicas, medicamentos, personal que los atiende
 - lenguaje : Python 
 - Framework : Django - DjangoRestFramework
 - Frontend : Javascript - React
+- Base de datos : MySql
